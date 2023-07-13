@@ -2,4 +2,5 @@
 draw_text(10, 10, "kasldkal kdslak dlsakd");*/
 
 
-ppui_draw(ui);
+pawpr_draw(ui);
+

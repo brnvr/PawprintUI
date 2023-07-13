@@ -35,7 +35,7 @@
   },
   "resources": [
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
-    {"id":{"name":"ppui","path":"scripts/ppui/ppui.yy",},},
+    {"id":{"name":"pawpr_lib","path":"scripts/pawpr_lib/pawpr_lib.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
